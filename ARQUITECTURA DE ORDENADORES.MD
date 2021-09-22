@@ -91,6 +91,8 @@ Su conexion es USB y antiguamente  ps/2
 
 [Placa Base](https://www.pccomponentes.com/msi-b450-gaming-plus-max)
 
+Total precio- 1045,65
+
 
 
 
@@ -228,7 +230,4 @@ Rescultado: 00110001 00110111
 ¿cuantas letras tiene? 
 
 Resultado: 14745
-
-
-
 
