@@ -48,6 +48,11 @@ con  los  que  está  trabajando. )
 o la propia tarjeta, en una señal que pueda entender el monitor, para mostrarla en forma de imagen 
 en  la  pantalla.)
 
+## Teclados
+
+Son dispositivos de entrada activados por pulsacion de teclas incorporan un circuitov integrado que se comunica con el pc
+
+Su conexion es USB y antiguamente  ps/2
 
 
 - Los discos duros.Existen dos tipos:   
