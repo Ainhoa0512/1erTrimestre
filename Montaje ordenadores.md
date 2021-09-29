@@ -4,8 +4,7 @@
 
 -¿Como es el ordenador que tengo que desmontar?
 
-
-El pc que tengo que montar es 
+El pc que tengo que montar es del 98 y tiene piezas muy viejas, tiene buses los cuales ahora no se utilizan
 
 -¿Tiene alguna pieza reutilizable? La placa base podra servir
 
@@ -13,18 +12,17 @@ El pc que tengo que montar es
 
 Es del año 1998
 
-
 ### Documentacion 
 
-Personas del equipo Abril, Ainhoa, Miguel.
+Personas del equipo: Abril, Ainhoa, Miguel.
 
-Quien fue el fotografo? Abril
+Quien fue el fotografo? Fue Abril
 
 Proceso del montaje-
-Quitemos los tornillos, luego las piezas y hemos vuelto a montarlo
+Quitemos los tornillos, luego las piezas y lo volvimos a montar
 
 Que habeis aprendido?
-Hemos aprendido a montar un pc
+Hemos aprendido a motar un pc y desmontar
 
 Descripcion de los componenentes: memoria ram, disco duro, tarjeta gráfica, procesador.
 
@@ -37,4 +35,4 @@ Funcionaria el ordenador?
 Creo que si
 
 Le faltan piezas? 
-No
+No, estan todas las necesarias 
