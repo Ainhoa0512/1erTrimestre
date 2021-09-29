@@ -7,11 +7,11 @@
 
 El pc que tengo que montar es 
 
--¿Tiene alguna pieza reutilizable?
+-¿Tiene alguna pieza reutilizable? La placa base podra servir
 
 -¿De que año es?
 
-Es de el año
+Es del año 1998
 
 
 ### Documentacion 
