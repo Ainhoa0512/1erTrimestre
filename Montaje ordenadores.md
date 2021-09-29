@@ -19,7 +19,9 @@ Personas del equipo: Abril, Ainhoa, Miguel.
 Quien fue el fotografo? Fue Abril
 
 Proceso del montaje-
-Quitemos los tornillos, luego las piezas y lo volvimos a montar
+El proceso de desmontaje a sido sencillo, ya que solo hemos tenido que ir desatornillando y
+desenchufando los cables , primero retiramos las tapas, despues desenchufamos todo
+lo que estaba conectado para poder desmontarlo mas facilmente.
 
 Que habeis aprendido?
 Hemos aprendido a motar un pc y desmontar
