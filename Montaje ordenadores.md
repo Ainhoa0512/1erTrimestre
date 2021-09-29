@@ -14,27 +14,32 @@ Es del año 1998
 
 ### Documentacion 
 
-Personas del equipo: Abril, Ainhoa, Miguel.
+``Personas del equipo:
+Abril, Ainhoa, Miguel.
 
-Quien fue el fotografo? Fue Abril
 
-Proceso del montaje-
+Quien fue el fotografo?
+Fue Abril
+
+`` Proceso del montaje-
 El proceso de desmontaje a sido sencillo, ya que solo hemos tenido que ir desatornillando y
 desenchufando los cables , primero retiramos las tapas, despues desenchufamos todo
 lo que estaba conectado para poder desmontarlo mas facilmente.
 
-Que habeis aprendido?
+``
+``Que habeis aprendido?
 Hemos aprendido a motar un pc y desmontar
 
-Descripcion de los componenentes: memoria ram, disco duro, tarjeta gráfica, procesador.
-
+``Descripcion de los componenentes:
+memoria ram, disco duro, tarjeta gráfica, procesador.
+``
 ### INVESTIGACION 
 
-De que año es el ordenador?
+``De que año es el ordenador?
 Es del año 1998
 
-Funcionaria el ordenador? 
+``Funcionaria el ordenador? 
 Creo que si
 
-Le faltan piezas? 
+``Le faltan piezas? 
 No, estan todas las necesarias 
