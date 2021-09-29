@@ -12,7 +12,7 @@ El pc que tengo que montar es del 98 y tiene piezas muy viejas, tiene buses los 
 
 Es del año 1998
 
-``### Documentacion 
+### Documentacion 
 
 Personas del equipo:
 Abril, Ainhoa, Miguel.
