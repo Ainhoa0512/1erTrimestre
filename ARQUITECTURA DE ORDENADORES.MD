@@ -107,11 +107,25 @@ Una de las cosas que mas me han gustado ha sido el código binario y las piezas 
 
 ### Tarjetas graficas
 
--¿Que son?
+-¿Que son? Se encarga de procesar los datos provenientes del procesador y transformarlos en información comprensible y representable en el dispositivo de salida.
 
--¿Que es una GPU?
+-¿Que es una GPU? Es el encargado de procesar toda la información gráfica, realizando los cálculos necesarios 
+para obtener la imagen final.
 
-### Que caracteristiqcas tiene la tarjeta grafica
+### Que caracteristicas tiene la tarjeta grafica que escojí? (Gigabyte GeForce GTX)(PcComponentes)
+
+Procesador:NVIDIA GeForce GTX 1050 Ti
+
+Memoria: Memory Clock 7008 MHz Memory Size 4 GB Memory Type GDDR5
+
+Tipo cantidad de velocidad: Core Clock
+
+    Boost: 1430 MHz/ Base: 1316 MHz in OC Mode
+    Boost: 1392 MHz/ Base: 1290 MHz in Gaming
+
+Salidas: PCI-E
+
+Tipo de intefaz: 
 
 
 
