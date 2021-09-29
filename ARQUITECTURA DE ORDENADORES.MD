@@ -48,6 +48,8 @@ con  los  que  está  trabajando. )
 o la propia tarjeta, en una señal que pueda entender el monitor, para mostrarla en forma de imagen 
 en  la  pantalla.)
 
+
+
 ## Teclados
 
 Son dispositivos de entrada activados por pulsacion de teclas incorporan un circuitov integrado que se comunica con el pc
@@ -102,6 +104,14 @@ Total precio- 1045,65
 ## [Bloque 2: Arquitectura ordenadores](https://grandecovian.es/FGC/files/D.%20Tecnolog%C3%ADa/TIC%20I/Arquitectura/Arquitectura%20de%20ordenadores.pdf)
 
 Una de las cosas que mas me han gustado ha sido el código binario y las piezas del intetrior de pc, nos han explicado para que sirven y sus funcionalidades, tambien el funcionamiento basico que suele hacer un ordenador
+
+### Tarjetas graficas
+
+-¿Que son?
+
+-¿Que es una GPU?
+
+### Que caracteristiqcas tiene la tarjeta grafica
 
 
 
