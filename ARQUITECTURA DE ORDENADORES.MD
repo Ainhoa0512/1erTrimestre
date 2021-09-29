@@ -130,9 +130,14 @@ Tipo de intefaz: PCI-Express x16
 
 #### Formateo y sectores
 
-Tengo un disco duro magnetico de 100 Gbytes.¿Cuantos sectores tiene si cada sector es de 512 bytes?
+Tengo un disco duro magnetico de 100 Gbytes.¿Cuantos sectores tiene si cada sector es de 512 bytes? Aproximadamente 208 millones de sectores
 
-100GB = 102400 MG = 
+100GB = 102400 MG = 105857600 KB
+
+107374182400 bytes/512 byte = 209715200 sectores
+
+
+100000/512
 
 ## CLASE DE BINARIO:
 
