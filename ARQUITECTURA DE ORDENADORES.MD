@@ -123,7 +123,7 @@ Tipo cantidad de velocidad: Core Clock
     Boost: 1430 MHz/ Base: 1316 MHz in OC Mode
     Boost: 1392 MHz/ Base: 1290 MHz in Gaming
 
-Salidas: PCI-E
+Salidas: PCI-E HDMI (1), DVI-D (1)
 
 Tipo de intefaz: 
 
