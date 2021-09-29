@@ -105,7 +105,7 @@ Total precio- 1045,65
 
 Una de las cosas que mas me han gustado ha sido el código binario y las piezas del intetrior de pc, nos han explicado para que sirven y sus funcionalidades, tambien el funcionamiento basico que suele hacer un ordenador
 
-### Tarjetas graficas
+## Tarjetas graficas
 
 -¿Que son? Se encarga de procesar los datos provenientes del procesador y transformarlos en información comprensible y representable en el dispositivo de salida.
 
@@ -126,6 +126,13 @@ Salidas: PCI-E HDMI (1), DVI-D (1)
 Tipo de intefaz: PCI-Express x16
 
 
+### Disco duro
+
+#### Formateo y sectores
+
+Tengo un disco duro magnetico de 100 Gbytes.¿Cuantos sectores tiene si cada sector es de 512 bytes?
+
+100GB = 102400 MG = 
 
 ## CLASE DE BINARIO:
 
