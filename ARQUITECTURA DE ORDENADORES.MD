@@ -118,14 +118,12 @@ Procesador:NVIDIA GeForce GTX 1050 Ti
 
 Memoria: Memory Clock 7008 MHz Memory Size 4 GB Memory Type GDDR5
 
-Tipo cantidad de velocidad: Core Clock
+Tipo cantidad de velocidad:
 
-    Boost: 1430 MHz/ Base: 1316 MHz in OC Mode
-    Boost: 1392 MHz/ Base: 1290 MHz in Gaming
 
 Salidas: PCI-E HDMI (1), DVI-D (1)
 
-Tipo de intefaz: 
+Tipo de intefaz: PCI-Express x16
 
 
 
