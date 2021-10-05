@@ -15,33 +15,39 @@ Es del año 1998
 ### Documentacion 
 
 Personas del equipo:
+
 Abril, Ainhoa, Miguel.
 
 
 Quien fue el fotografo?
+
 Fue Abril
 
  Proceso del montaje-
+ 
 El proceso de desmontaje a sido sencillo, ya que solo hemos tenido que ir desatornillando y
-desenchufando los cables , primero retiramos las tapas, despues desenchufamos todo
-lo que estaba conectado para poder desmontarlo mas facilmente, continuemos quitando el procesadro, los ventiladores, la memoria.. etc, luego fuimos haciendo fotos a cada pieza para poder montarlo luego.
-
+desenchufando los cables , primero retiramos las tapas, despues desenchufamos todo lo que estaba conectado para poder desmontarlo mas facilmente, continuemos quitando el procesadro, los ventiladores, la memoria.. etc, luego fuimos haciendo fotos a cada pieza para poder saber como montar y lo montemos.
 
 Que habeis aprendido?
-Hemos aprendido a motar un pc y desmontar
+
+Hemos aprendido a motar un pc y desmontar y algunas de las piezas antigúas que tenian algunos ordenadores
 
 Descripcion de los componenentes:
+
 memoria ram, disco duro, tarjeta gráfica, procesador, ventiladores integrados 
 
 ### INVESTIGACION 
 
 De que año es el ordenador?
+
 Es del año 1998.
 
 Funcionaria el ordenador? 
+
 Creo que si, porque tiene todas las piezas necesarias
 
 Le faltan piezas? 
-No, estan todas las necesarias.
+
+No, estan todas las necesarias para funcionar
 
 
