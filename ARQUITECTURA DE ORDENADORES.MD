@@ -136,7 +136,7 @@ Tipo de intefaz: PCI-Express x16
 
 • Búfer:Factor de forma de disco SSD: 2.5"
 
-Magnetico o estado solido?
+Magnetico o estado solido? Magnetico
 
 
 
