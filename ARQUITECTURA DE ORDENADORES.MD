@@ -136,11 +136,17 @@ Tipo de intefaz: PCI-Express x16
 
 • Búfer:Factor de forma de disco SSD: 2.5"
 
-Magnetico o estado solido? Magnetico
+Magnetico o estado solido? estado solido
 
 Precio: 98 (https://www.pccomponentes.com/samsung-870-qvo-ssd-1tb-sata3)
 
+### REFLEXION SOBRE PRECIOS
 
+40Euros- [](https://www.mediamarkt.es/es/product/_nube-personal-muvit-io-miodduw1-inalambrico-1-tb-ssd-300-mbs-wi-fi-4000-mah-negro-1515242.html?ds_rl=1280902&ds_rl=1280902&gclid=EAIaIQobChMI8tjtzfKy8wIV05TVCh0E-QX0EAQYBiABEgKI8_D_BwE&gclsrc=aw.ds&utm_campaign=MM_ES_SEARCH_GOOGLE_CATEGORIES_PLA_PLA-SMART_PROMO_ALL_ALL&utm_medium=cpc&utm_source=google)
+
+80Euros- [](https://shop.westerndigital.com/es-es/products/recertified/portable-drives/wd-elements-portable-usb-3-0-hdd-recertified#RWDBU6Y0050BBK-WESN?utm_medium=pdsh2&utm_source=gads&utm_campaign=WD-EU-ES-PLA&utm_content=895040615489&utm_term=RWDBU6Y0050BBK-WESN)
+
+300Euros- [](https://shop.westerndigital.com/es-es/products/external-drives/wd-elements-desktop-usb-3-0-hdd?utm_medium=pdsh2&utm_source=gads&utm_campaign=WD-EU-ES-PLA&utm_content=895040615489&utm_term=WDBWLG0140HBK-EESN#WDBWLG0140HBK-EESN)
 
 #### Formateo y sectores
 
