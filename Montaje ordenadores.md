@@ -50,4 +50,5 @@ Le faltan piezas?
 
 No, estan todas las necesarias para funcionar
 
+![Captura de pantalla](https://user-images.githubusercontent.com/90753262/136007782-285324cf-2ac4-4a15-8257-bfda54064fe2.png)
 
