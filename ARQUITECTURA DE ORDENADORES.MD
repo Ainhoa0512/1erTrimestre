@@ -138,6 +138,8 @@ Tipo de intefaz: PCI-Express x16
 
 Magnetico o estado solido? Magnetico
 
+Precio: 98 (https://www.pccomponentes.com/samsung-870-qvo-ssd-1tb-sata3)
+
 
 
 #### Formateo y sectores
