@@ -6,7 +6,9 @@
 
 El pc que tengo que montar es del 98 y tiene piezas muy viejas, tiene buses los cuales ahora no se utilizan
 
--¿Tiene alguna pieza reutilizable? La placa base podra servir
+-¿Tiene alguna pieza reutilizable? 
+
+Creo  que no tiene reutilizables
 
 -¿De que año es?
 
@@ -23,7 +25,7 @@ Quien fue el fotografo?
 
 Fue Abril
 
- Proceso del montaje-
+ Proceso del montaje
  
 El proceso de desmontaje a sido sencillo, ya que solo hemos tenido que ir desatornillando y
 desenchufando los cables , primero retiramos las tapas, despues desenchufamos todo lo que estaba conectado para poder desmontarlo mas facilmente, continuemos quitando el procesadro, los ventiladores, la memoria.. etc, luego fuimos haciendo fotos a cada pieza para poder saber como montar y lo montemos.
