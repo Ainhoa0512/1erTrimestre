@@ -281,6 +281,11 @@ Resultado: 14745
   
   Los DNS etan conectados entre si, esto hace que no tengas que recordar las IP de todo
   
+  DDOS: Denegacion de servicio
+  
+  Ataque de DDOS es perdir a al vez demasiadas cosasa un mismo servidor
+  
+  
   
  
  
