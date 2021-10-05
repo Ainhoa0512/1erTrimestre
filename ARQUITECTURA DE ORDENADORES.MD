@@ -128,6 +128,18 @@ Tipo de intefaz: PCI-Express x16
 
 ### Disco duro
 
+• Capacidad: SDD 1000 GB
+
+• Interfaz: Serial ATA III
+
+• Velocidad de giro: 
+
+• Búfer:Factor de forma de disco SSD: 2.5"
+
+Magnetico o estado solido?
+
+
+
 #### Formateo y sectores
 
 Tengo un disco duro magnetico de 100 Gbytes.¿Cuantos sectores tiene si cada sector es de 512 bytes? Aproximadamente 208 millones de sectores
