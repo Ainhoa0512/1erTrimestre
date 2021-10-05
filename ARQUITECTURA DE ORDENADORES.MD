@@ -291,7 +291,15 @@ Resultado: 14745
   
   Puertos- Puertas abiertas o cerradas. Los mas habituales son 80- htts y el 443. httes (hipertexto)
   
+  IPv6- 6bytes
+  
+  IoT- Internet of Things
+  
+  
+ 
 
+  
+  
  
 
   
