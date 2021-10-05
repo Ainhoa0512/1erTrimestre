@@ -273,7 +273,7 @@ Resultado: 14745
   
   SWITCH- Sirve para concectar varios cables de red, y decide que se concecta a cada ascendente
   
-  El wiffi lo que tiene es un servidor o punto de acceso WIFFI,los accesos wiffi no tienen porque tener internet, 
+  El wiffi lo que tiene es un servidor o punto de acceso WIFFI,los accesos wiffi no tienen porque tener internet
   
   DHCP- Lo que haces es asignar de forma automatica las IP de los ordenadores conectados
   
@@ -285,11 +285,16 @@ Resultado: 14745
   
   Ataque de DDOS es perdir a al vez demasiadas cosasa un mismo servidor
   
+  Stream- Arroyo de datos, corriente de agua 
   
+  Protocolo UTP- Te emite
   
+  Puertos- Puertas abiertas o cerradas. Los mas habituales son 80- htts y el 443. httes (hipertexto)
+  
+
  
- 
- 
+
+  
   
   
   
