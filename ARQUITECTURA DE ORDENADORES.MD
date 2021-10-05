@@ -265,3 +265,18 @@ Rescultado: 00110001 00110111
 
 Resultado: 14745
 
+## Internet y redes 
+
+### Redes Locales: LAN (Local Area Network)
+
+  Protocolo   TCP/IP - Se les asigna una IP, son 4 bytres (4 numeros entre el 0-255)(246.3.38.0.1)
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
