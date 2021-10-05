@@ -273,14 +273,18 @@ Resultado: 14745
   
   SWITCH- Sirve para concectar varios cables de red, y decide que se concecta a cada ascendente
   
-  El wiffi lo que tiene es un servidor o punto de acceso WIFFI,no tiene porque tener internet, 
+  El wiffi lo que tiene es un servidor o punto de acceso WIFFI,los accesos wiffi no tienen porque tener internet, 
   
-  DHCP- Lo queh aces es asignar de forma automatica las IP de los ordenadores conectados
+  DHCP- Lo que haces es asignar de forma automatica las IP de los ordenadores conectados
+  
+  ISP :Es lo que te da internet y se conecta a Service Pavidez
+  
+  Los DNS etan conectados entre si, esto hace que no tengas que recordar las IP de todo
   
   
-  
-  
-  
+ 
+ 
+ 
   
   
   
