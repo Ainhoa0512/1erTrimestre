@@ -40,8 +40,8 @@ Memoria ram, disco duro, tarjeta gráfica, procesador, ventiladores integrados
 
 De que año es el ordenador?
 
-Creia que era del año 98 porque en el disco duro ponia año 1998
-
+Creia que era del año 98 porqué en el disco duro ponía año 1998
+ 
 Funcionaria el ordenador? 
 
 Creo que si, porque tiene todas las piezas necesarias y ninguan esta rota
