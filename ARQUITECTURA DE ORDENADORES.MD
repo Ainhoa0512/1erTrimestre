@@ -271,7 +271,11 @@ Resultado: 14745
 
   Protocolo   TCP/IP - Se les asigna una IP, son 4 bytres (4 numeros entre el 0-255)(246.3.38.0.1)
   
+  SWITCH- Sirve para concectar varios cables de red, y decide que se concecta a cada ascendente
   
+  El wiffi lo que tiene es un servidor o punto de acceso WIFFI,no tiene porque tener internet, 
+  
+  DHCP- Lo queh aces es asignar de forma automatica las IP de los ordenadores conectados
   
   
   
