@@ -323,9 +323,9 @@ Resultado: 14745
  _Velocidad (bits/seg)= Frecuencia(H3)* Ancho de banda (bits)_
  
  
-a) 500MB/s - 50 000 H3 ¿Ancho de banda?
+-a) 500MB/s - 50 000 H3 ¿Ancho de banda?
 
-b) 20 000H3 - 8bits  ¿Velocidad?  
+-b) 20 000H3 - 8bits  ¿Velocidad?  
 
 160000bits/seg = 160000/81024 = 19'5 kb/s
   
@@ -335,23 +335,23 @@ b) 20 000H3 - 8bits  ¿Velocidad?
 
 19531/1024 =19,07 MB/s
 
-Los buses de datos tienen una determinada capaxidad de trasmisin de información. Esta capacidad se mide en información/s. Por ejemplo bits/s , KB/s , MB/s , GB/s.  
+-Los buses de datos tienen una determinada capaxidad de trasmisin de información. Esta capacidad se mide en información/s. Por ejemplo bits/s , KB/s , MB/s , GB/s.  
 
-Para pasar de una unidad a a otra tendremos que multiplicar o dividir.
+-Para pasar de una unidad a a otra tendremos que multiplicar o dividir.
 
-Para pasar de bits (b) a bytes (B) dividimos entre 8, que es el número de bits en un byte.
+-Para pasar de bits (b) a bytes (B) dividimos entre 8, que es el número de bits en un byte.
 
-Para pasasr de byte a kiloByte (KB) dividimos enre 1024, que es el número de bytes en un KB.
+-Para pasasr de byte a kiloByte (KB) dividimos enre 1024, que es el número de bytes en un KB.
 
-Para pasar de KB a MegaByte (MB) dividimos entre 1024, que es el número de KB en un MG.
+-Para pasar de KB a MegaByte (MB) dividimos entre 1024, que es el número de KB en un MG.
 
-Para pasar de MB a GigaByte (GB) dividimos entre 1024, que es el número de MB en un GB.
+-Para pasar de MB a GigaByte (GB) dividimos entre 1024, que es el número de MB en un GB.
 
-Si hubiera que pasar de bit a MB, se unen varias divisiones, en este caso: Primero dividimos entre 8 y luego 2 veces entre 1024
+-Si hubiera que pasar de bit a MB, se unen varias divisiones, en este caso: Primero dividimos entre 8 y luego 2 veces entre 1024
 
-Si pasamos de unidades grandes a pequeñas, multiplicaremos en vez de dividir
+-Si pasamos de unidades grandes a pequeñas, multiplicaremos en vez de dividir
 
-La velocidad de trasmision es igual a la frequencia de trasmision del bus multiplicado por el número de bits por paquete. El número de bits por paquete depende de cuantas conexiones tenga.
+-La velocidad de trasmision es igual a la frequencia de trasmision del bus multiplicado por el número de bits por paquete. El número de bits por paquete depende de cuantas conexiones tenga.
   
   
  
