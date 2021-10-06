@@ -371,5 +371,15 @@ Resultado: 14745
  
  Para cambiar la unidad se utiliza el sistema internacionas (SI), es decir multiplos y submultiplos en base decimal. Es decir: 1MHZ= 1000000 HZ o 1KBZ= 1000 hZ.
  
+ 25MhZ - 512bytes/paquete - ¿velocidad? = velocidad de trasmision= Frequencia* paquete
+ 
+ 25 000 000 frequencia  * 512 = 12800 000 00 bytes/s
+ 
+ 1280000000* 1024 = 12500 000 kb/s = 12507 MB/s = 11,9 GB
+ 
+ 
+ 
+
+ 
  
  
