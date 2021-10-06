@@ -318,13 +318,24 @@ Resultado: 14745
   IoT- Internet of Things
   
   
+ ### Ejercicio
  
+ _Velocidad (bits/seg)= Frecuencia(H3)* Ancho de banda (bits)_
+ 
+ 
+a) 500MB/s - 50 000 H3 ¿Ancho de banda?
 
+b) 20 000H3 - 8bits  ¿Velocidad?  
+
+160000bits/seg = 160000/81024 = 19'5 kb/s
+  
+20000000 * 8 = 160000000 bits/s  
+
+160000000/8* 1024 = 19531 kb/s
+
+19531/1024 =19,07 MB/s
+
+Los buses de datos tienen una determinada capaxidad de trasmisin de información. Esta capacidad se mide en información/s. Por ejemplo bits/s , KB/s , MB/s , GB/s.  
   
   
  
-
-  
-  
-  
-  
