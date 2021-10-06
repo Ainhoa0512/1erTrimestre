@@ -349,7 +349,7 @@ Para pasar de MB a GigaByte (GB) dividimos entre 1024, que es el número de MB e
 
 Si hubiera que pasar de bit a MB, se unen varias divisiones, en este caso: Primero dividimos entre 8 y luego 2 veces entre 1024
 
-  
+  Si pasamos de unidades grandes a pequeñas, multiplicaremos en vez de dividir
   
   
  
