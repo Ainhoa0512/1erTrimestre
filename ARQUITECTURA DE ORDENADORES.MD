@@ -353,6 +353,23 @@ Resultado: 14745
 
 -La velocidad de trasmision es igual a la frequencia de trasmision del bus multiplicado por el número de bits por paquete. El número de bits por paquete depende de cuantas conexiones tenga.
   
-  
+ ### Unidades de la frequencia
+ 
+ La frequiencia se mide en Hertz, herzios o segundos a la menos uno (1/segundos). 
+ 
+ Un HZrepresenta que algo ocurre una vez por segundo.
+ 
+ 0,1 HZ representa que algo ocurre una vez cada 10 segundos
+ 
+ 5 HZ representa que algo ocurre 5 veces por segundo
+ 
+ En informatica, estas frequencias pueden referirse habitualmente a:
+ 
+ - Frequiencias de relog para trasminit datos (MhZ - GhZ)
+
+ -Frequiencias de sonido (hZ - Khz)
+ 
+ Para cambiar la unidad se utiliza el sistema internacionas (SI), es decir multiplos y submultiplos en base decimal. Es decir: 1MHZ= 1000000 HZ o 1KBZ= 1000 hZ.
+ 
  
  
