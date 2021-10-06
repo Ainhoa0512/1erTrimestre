@@ -378,7 +378,19 @@ Resultado: 14745
  1280000000* 1024 = 12500 000 kb/s = 12507 MB/s = 11,9 GB
  
  
+ FUNCIONES BASICAS
  
+ Hablar con el Hawdred (drivers, controladores)
+ 
+ Establecer conexione (wiffi- LAN- BLUETOOTH)
+ 
+ Interrfaz basica de usuario
+ 
+ Acceder y administrar discos
+ 
+ Acesco basico de archivos
+ 
+ Perminitr instalar programas
 
  
  
