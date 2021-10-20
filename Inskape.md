@@ -1,4 +1,4 @@
-![Captura de pantalla de 2021-10-20 13-55-07](https://user-images.githubusercontent.com/90753262/138087924-9db021cc-08c8-4234-b78e-96cda1e9d2ef.png)
+
 110001: 3D, 2D: RESTER. VECOTORIAL
 
 ## IMAGENES
@@ -138,6 +138,7 @@ autotrazo:
 
 ![Captura de pantalla de 2021-10-20 14-05-02](https://user-images.githubusercontent.com/90753262/138089391-12ef0b35-3c3c-4f0c-8989-8d3c57302ede.png)
 
+![Captura de pantalla de 2021-10-20 13-55-07](https://user-images.githubusercontent.com/90753262/138087924-9db021cc-08c8-4234-b78e-96cda1e9d2ef.png)
 
 ## explicacion del cuadro de vecotira
 
