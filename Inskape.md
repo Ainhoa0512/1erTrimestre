@@ -138,6 +138,9 @@ bordes:
 
 ![Captura de pantalla de 2021-10-20 13-50-52](https://user-images.githubusercontent.com/90753262/138087419-b83c312c-0ae5-4e73-bcae-152e23e7306f.png)
 
+autotrazo: 
+
+![Captura de pantalla de 2021-10-20 14-05-02](https://user-images.githubusercontent.com/90753262/138089391-12ef0b35-3c3c-4f0c-8989-8d3c57302ede.png)
 
 
 ## explicacin del cuadro de vecotira
