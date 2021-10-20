@@ -82,3 +82,10 @@ DWG 3DM A1
 CXF
 
 PDF: PORTABLE DOCUMENT FORMAT
+
+
+Rasterizamos una imagen, cuando pasamos de una imagen vctorial a una imagen raster (mapa de bits)
+
+Vectorizar es pasar de una imagen raster a una imagen vectorial
+(pasar un mapa de bots a formato verbal)
+
