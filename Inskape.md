@@ -129,7 +129,13 @@ Corte de luminosidad
 
 Existen varias opciones:
 
+corte de iluminosidad:
+
 ![Captura de pantalla de 2021-10-20 13-29-30](https://user-images.githubusercontent.com/90753262/138084688-11870b0f-c932-474f-bdce-114d6d345223.png)
+
+bordes:
+
+![Captura de pantalla de 2021-10-20 13-50-52](https://user-images.githubusercontent.com/90753262/138087419-b83c312c-0ae5-4e73-bcae-152e23e7306f.png)
 
 
 
