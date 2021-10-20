@@ -99,6 +99,27 @@ Esta es la imagen rasterizada original:
 
 [](https://elpais.com/cultura/2019/09/30/actualidad/1569858378_536299.html)
 
+Archivo 
 
+propiedades de documento
 
+unidades en px (pixeles)
+
+Tamaño personalizado
+
+ancoho 600 alto 1000
+
+ceraamos la ventana 
+
+añadimos la imagen de internet
+
+Archivo importar
+
+arrastrar la imagen
+
+copiar y pegar la inagen
+
+click derecho en la imagen
+
+vecotrizar mapa bits
 
