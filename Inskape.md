@@ -1,6 +1,6 @@
 110001: 3D, 2D: RESTER. VECOTORIAL
 
-IMAGENES
+## IMAGENES
 
 Las imagenes se guardan digitalmente de dos maneras.
 
@@ -42,11 +42,11 @@ colores intensos: tener hasta 256 colors
 
 CANAL (como los 3 colores de RGB)
 
-DE TRANSICION.
+## DE TRANSICION.
  
 Este canal se llama canal alfa. LOs PNG pueden tenerlo. Los GIF y los JPG no.
  
-FORMATOS COMUNES:
+## FORMATOS COMUNES:
 
 JPG (jpeg) tiene confusion
 
