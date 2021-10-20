@@ -123,3 +123,22 @@ click derecho en la imagen
 
 vecotrizar mapa bits
 
+Existen varias opciones:
+
+Corte de luminosidad
+
+![Captura de pantalla de 2021-10-20 12-52-29](https://user-images.githubusercontent.com/90753262/138080136-03d115c5-7e08-42da-aab0-bd156e229fd7.png)
+
+
+
+## explicacin del cuadro de vecotira
+
+Existen varias opciones
+
+Lo primero es decidir si el programa hara una o mas pasadas
+
+con una unica pasada siempre obtendremos una imgane en blanco y negro (que podemos colorear despues)
+
+Una unica pasada tenemos detecion de bordes --- revisa el contraste entre pixeles
+
+Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
