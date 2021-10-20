@@ -65,7 +65,7 @@ TIFF: sin compresion
 
 
 
-IMAGENES VICTORIALES
+##### IMAGENES VICTORIALES
 
 Se define la imagen como un conjunto de formas (lineas, puntos ,etc) cada una de estas formas esta definida matematicamente
 
@@ -83,9 +83,22 @@ CXF
 
 PDF: PORTABLE DOCUMENT FORMAT
 
-
 Rasterizamos una imagen, cuando pasamos de una imagen vctorial a una imagen raster (mapa de bits)
 
 Vectorizar es pasar de una imagen raster a una imagen vectorial
-(pasar un mapa de bots a formato verbal)
+(pasar un mapa de bits a formato verbal).
+
+
+### EJERCICIO VECTORIZACN
+
+vamos a toamr la imagen del cuadro del leon de Rosa Bonheur
+
+Esta es la imagen rasterizada original:
+
+![](https://imagenes.elpais.com/resizer/BZC1wtnQ7F9Fh9_KJdxKWADf-yA=/1960x0/arc-anglerfish-eu-central-1-prod-prisa.s3.amazonaws.com/public/XFGHWVUB6GGPQQBIV36UCJXVOY.jpg)
+
+[](https://elpais.com/cultura/2019/09/30/actualidad/1569858378_536299.html)
+
+
+
 
