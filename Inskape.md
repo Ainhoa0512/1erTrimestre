@@ -24,8 +24,18 @@ Las imagenes se guardan digitalmente de dos maneras.
 
 -Un archivo puede expresarse su resolucion pidiendo a x b
 
-Por ejemplko una imagen de 350x250 pixeles.
+-Por ejemplko una imagen de 350x250 pixeles.
 
-Se utiliza cuando hablamos de archivos concretos.
+-Se utiliza cuando hablamos de archivos concretos.
 
-NO CONFUNDIR col a resolucion de impresion mediante fuentes por pulgadas (ppp) o (dpi) dots ger inch.
+-NO CONFUNDIR col a resolucion de impresion mediante fuentes por pulgadas (ppp) o (dpi) dots ger inch.
+
+-ESPACIO DE COLOR
+
+-sistema para detallas los colores 
+
+rgb (red green blue) para pantallas
+
+cmyk ( cyan mayate yellow black) para imporimir 
+
+colores intensos: tener hasta 256 colors 
