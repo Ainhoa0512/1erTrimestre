@@ -68,3 +68,17 @@ TIFF: sin compresion
 IMAGENES VICTORIALES
 
 Se define la imagen como un conjunto de formas (lineas, puntos ,etc) cada una de estas formas esta definida matematicamente
+
+## FORMATOS
+
+SVG (scalable vector graphic)
+
+EPS
+
+Especificos
+
+DWG 3DM A1
+
+CXF
+
+PDF: PORTABLE DOCUMENT FORMAT
