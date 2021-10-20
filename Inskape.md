@@ -100,29 +100,25 @@ Esta es la imagen rasterizada original:
 
 [](https://elpais.com/cultura/2019/09/30/actualidad/1569858378_536299.html)
 
-Archivo 
 
-propiedades de documento
 
-unidades en px (pixeles)
+Abrimos INKSCAPE
 
-Tamaño personalizado
+Archivo --> Propiedades del documento --> Tamaño personalizado --> Unidades en PX (Píxeles) --> 600 ancho - 1000 alto
 
-ancoho 600 alto 1000
+Cerramos la pestaña
 
-ceraamos la ventana 
+Añadimos la imagen de internet
 
-añadimos la imagen de internet
+Archivo --> Importar
 
-Archivo importar
+Arrastrar la imagen
 
-arrastrar la imagen
+Copiar y pegar
 
-copiar y pegar la inagen
+Click derecho en la imagen
 
-click derecho en la imagen
-
-vecotrizar mapa bits
+Vectorizar mapa de bits
 
 Existen varias opciones:
 
