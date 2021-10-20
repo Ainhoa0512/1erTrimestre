@@ -127,7 +127,9 @@ Existen varias opciones:
 
 Corte de luminosidad
 
-![Captura de pantalla de 2021-10-20 12-52-29](https://user-images.githubusercontent.com/90753262/138080136-03d115c5-7e08-42da-aab0-bd156e229fd7.png)
+Existen varias opciones:
+
+![Captura de pantalla de 2021-10-20 13-29-30](https://user-images.githubusercontent.com/90753262/138084688-11870b0f-c932-474f-bdce-114d6d345223.png)
 
 
 
