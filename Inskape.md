@@ -38,4 +38,22 @@ rgb (red green blue) para pantallas
 
 cmyk ( cyan mayate yellow black) para imporimir 
 
-colores intensos: tener hasta 256 colors 
+colores intensos: tener hasta 256 colors
+
+CANAL (como los 3 colores de RGB)
+
+DE TRANSICION.
+ 
+Este canal se llama canal alfa. LOs PNG pueden tenerlo. Los GIF y los JPG no.
+ 
+FORMATOS COMUNES:
+
+JPG (jpeg) tiene confusion
+
+GIF: color intenso, se puede animar 
+
+PNG:  no tien gran confucion, admite alfa
+
+TIFF: sin compresion
+
+
