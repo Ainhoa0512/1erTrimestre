@@ -143,7 +143,7 @@ autotrazo:
 ![Captura de pantalla de 2021-10-20 14-05-02](https://user-images.githubusercontent.com/90753262/138089391-12ef0b35-3c3c-4f0c-8989-8d3c57302ede.png)
 
 
-## explicacin del cuadro de vecotira
+## explicacion del cuadro de vecotira
 
 Existen varias opciones
 
