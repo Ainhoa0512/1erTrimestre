@@ -65,3 +65,6 @@ TIFF: sin compresion
 
 
 
+IMAGENES VICTORIALES
+
+Se define la imagen como un conjunto de formas (lineas, puntos ,etc) cada una de estas formas esta definida matematicamente
