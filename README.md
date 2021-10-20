@@ -16,3 +16,5 @@ Vengo de Castelldefels, estoy en este curso porque me gustaria aprender microinf
 [CALSE DE BINARIO](https://github.com/Ainhoa0512/1erTrimestre/blob/main/ARQUITECTURA%20DE%20ORDENADORES.MD#clase-de-binario)
 
 [MONTAJE ORDENADORES](https://github.com/Ainhoa0512/1erTrimestre/new/main)
+
+[INSKAPE](https://github.com/Ainhoa0512/1erTrimestre/blob/main/Inskape.md)
