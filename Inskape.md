@@ -57,3 +57,9 @@ PNG:  no tien gran confucion, admite alfa
 TIFF: sin compresion
 
 
+[png](https://www.ionos.es/digitalguide/fileadmin/DigitalGuide/Screenshots_2020/JPG-photo-at-a-quality-setting-of-25.png)
+
+[JPG](https://static4.depositphotos.com/1006994/298/v/600/depositphotos_2983099-stock-illustration-grunge-design.jpg)
+
+
+
