@@ -61,5 +61,7 @@ TIFF: sin compresion
 
 ![JPG](https://static4.depositphotos.com/1006994/298/v/600/depositphotos_2983099-stock-illustration-grunge-design.jpg)
 
+![GIF](https://cdn.oldskull.net/wp-content/uploads/2019/08/6-gifs-animados-dvdp-oldskull-.gif)
+
 
 
