@@ -1,3 +1,4 @@
+![Captura de pantalla de 2021-10-20 13-55-07](https://user-images.githubusercontent.com/90753262/138087924-9db021cc-08c8-4234-b78e-96cda1e9d2ef.png)
 110001: 3D, 2D: RESTER. VECOTORIAL
 
 ## IMAGENES
