@@ -155,6 +155,26 @@ Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
 
 # rasterizar
 
-20:16
-![Captura de pantalla de 2021-10-27 09-31-18](https://user-images.githubusercontent.com/90753262/139020258-8a0dd992-891e-48cb-8162-4bbc254d9e52.png)
+
+Leon 1 x160 de ancho
+
+![leon1](https://user-images.githubusercontent.com/90753262/139023343-5696b6cd-e7c1-4ff2-9eb4-e5a354a06000.png)
+
+
+
+Leon 2 x350 de ancho
+
+![leon2](https://user-images.githubusercontent.com/90753262/139023358-eeba631f-3eba-470b-8735-8b7e64fd778e.png)
+
+
+
+Leon 3 x800 de ancho
+
+
+
+
+Leon 4 x1500 de ancho
+
+
+
 
