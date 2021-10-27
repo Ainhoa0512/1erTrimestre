@@ -170,11 +170,13 @@ Leon 2 x350 de ancho
 
 Leon 3 x800 de ancho
 
+![leon3](https://user-images.githubusercontent.com/90753262/139023519-0fbcbde2-ed3a-47e4-b4a2-6bdd4028df83.png)
 
 
 
 Leon 4 x1500 de ancho
 
 
+![leon4](https://user-images.githubusercontent.com/90753262/139023530-bb2f7472-5bfc-48b1-92a3-05d7271a7c58.png)
 
 
