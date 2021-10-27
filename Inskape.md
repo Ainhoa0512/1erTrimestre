@@ -153,7 +153,7 @@ Una unica pasada tenemos detecion de bordes --- revisa el contraste entre pixele
 Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
 
 
-# rasterizar
+# Rasteizar
 
 
 ----Leon 1 x160 de ancho----
