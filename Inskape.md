@@ -235,4 +235,7 @@ SUBSTRACTIVO (CYAN, MAGENTA, YELLOW, BLACK) y un canal d negro
 Underground:
 ![Captura de pantalla de 2021-10-27 12-05-23](https://user-images.githubusercontent.com/90753262/139045313-e1f5668b-99c6-43fa-8fae-0e2aab4549da.png)
 
+Mitsubishi:
+
+![Captura de pantalla de 2021-10-27 12-15-50](https://user-images.githubusercontent.com/90753262/139047023-9b3150b5-ccaf-4330-877d-84c621faa9d9.png)
 
