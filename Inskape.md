@@ -233,5 +233,6 @@ SUBSTRACTIVO (CYAN, MAGENTA, YELLOW, BLACK) y un canal d negro
 
 
 Underground:
-![Captura de pantalla de 2021-10-27 12-04-04](https://user-images.githubusercontent.com/90753262/139045129-9c65ac03-a1ac-4789-a62a-bead28d5f5d6.png)
+![Captura de pantalla de 2021-10-27 12-05-23](https://user-images.githubusercontent.com/90753262/139045313-e1f5668b-99c6-43fa-8fae-0e2aab4549da.png)
+
 
