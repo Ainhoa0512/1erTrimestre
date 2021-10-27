@@ -198,7 +198,7 @@ HSL: Mezcla un canal de tono el circulo cromatico(Hue, tono de color en ingles).
 
 HSL: (HUE, SATURATION, LICHT)
 
-Este sistema mezcla lo siguiente
+-Este sistema mezcla lo siguiente:
 
 -Un tono de color en la rueda cromatica (HUE).
 
@@ -207,4 +207,13 @@ Este sistema mezcla lo siguiente
 -Un canal de luminosidad de color (light).
 
 -Un canal que trasmite transparencia (alfa).
+
+
+CMYK
+
+-Este sistema mezcla los tres colores primarios substractivos:
+
+SUBSTRACTIVO (CYAN, MAGENTA, YELLOW, BLACK) y un canal d negro
+
+
 
