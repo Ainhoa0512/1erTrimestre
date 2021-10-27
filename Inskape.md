@@ -202,7 +202,9 @@ Este sistema mezcla lo siguiente
 
 -Un tono de color en la rueda cromatica (HUE).
 
--Un canal de nivel de saturacion croamtica que va del gris al color (saturacion)
+-Un canal de nivel de saturacion croamtica que va del gris al color (saturacion).
 
 -Un canal de luminosidad de color (light).
+
+-Un canal que trasmite transparencia (alfa).
 
