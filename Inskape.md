@@ -193,6 +193,13 @@ No deja guardar el archivo por que esta corrupto el programa
 ![Captura de pantalla de 2021-10-27 10-17-05](https://user-images.githubusercontent.com/90753262/139027369-8f2ba109-7e75-48ab-9206-42d740849621.png)
 
 
+COLOR DE TRAZO:
+
+![Captura de pantalla de 2021-10-27 10-49-49](https://user-images.githubusercontent.com/90753262/139032594-488edfc6-f0de-4cab-8842-64510d20ce63.png)
+
+![Captura de pantalla de 2021-10-27 10-52-56](https://user-images.githubusercontent.com/90753262/139033077-26da9f17-96ae-4b7b-8303-e141ab19832b.png)
+
+
 Tipo de color
 HSL: Mezcla un canal de tono el circulo cromatico(Hue, tono de color en ingles).Con un grado de saturación de color (entre gris y color).Y un canal de Luminosidad (light)
 
