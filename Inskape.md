@@ -153,5 +153,8 @@ Una unica pasada tenemos detecion de bordes --- revisa el contraste entre pixele
 Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
 
 
+# rasterizar
+
+20:16
 ![Captura de pantalla de 2021-10-27 09-31-18](https://user-images.githubusercontent.com/90753262/139020258-8a0dd992-891e-48cb-8162-4bbc254d9e52.png)
 
