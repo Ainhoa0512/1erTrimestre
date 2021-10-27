@@ -156,25 +156,25 @@ Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
 # rasterizar
 
 
-Leon 1 x160 de ancho
+----Leon 1 x160 de ancho----
 
 ![leon1](https://user-images.githubusercontent.com/90753262/139023343-5696b6cd-e7c1-4ff2-9eb4-e5a354a06000.png)
 
 
 
-Leon 2 x350 de ancho
+----Leon 2 x350 de ancho----
 
 ![leon2](https://user-images.githubusercontent.com/90753262/139023358-eeba631f-3eba-470b-8735-8b7e64fd778e.png)
 
 
 
-Leon 3 x800 de ancho
+----Leon 3 x800 de ancho----
 
 ![leon3](https://user-images.githubusercontent.com/90753262/139023519-0fbcbde2-ed3a-47e4-b4a2-6bdd4028df83.png)
 
 
 
-Leon 4 x1500 de ancho
+----Leon 4 x1500 de ancho----
 
 
 ![leon4](https://user-images.githubusercontent.com/90753262/139023530-bb2f7472-5bfc-48b1-92a3-05d7271a7c58.png)
