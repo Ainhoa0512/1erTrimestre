@@ -155,6 +155,7 @@ Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
 
 # Rasteizar
 
+No deja guardar el archivo por que esta corrupto el programa
 
 ----Leon 1 x160 de ancho----
 
@@ -178,5 +179,22 @@ Corte de luminosidad: jkunta todos los pixeles mas oscuros que un umbral
 
 
 ![leon4](https://user-images.githubusercontent.com/90753262/139023530-bb2f7472-5bfc-48b1-92a3-05d7271a7c58.png)
+
+
+
+----Leon con colores----
+
+![Captura de pantalla de 2021-10-27 10-09-56](https://user-images.githubusercontent.com/90753262/139026343-6b0140ce-d99f-4d05-bd87-b79b033ef41f.png)
+
+----Mezcla de colores----
+
+![Captura de pantalla de 2021-10-27 10-14-36](https://user-images.githubusercontent.com/90753262/139027035-cdef76bc-e09e-482c-8ed9-ae34824ec198.png)
+
+![Captura de pantalla de 2021-10-27 10-17-05](https://user-images.githubusercontent.com/90753262/139027369-8f2ba109-7e75-48ab-9206-42d740849621.png)
+
+
+Tipo de color
+HSL: Mezcla un canal de tono el circulo cromatico(Hue, tono de color en ingles).Con un grado de saturación de color (entre gris y color)
+
 
 
