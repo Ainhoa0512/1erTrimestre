@@ -194,7 +194,15 @@ No deja guardar el archivo por que esta corrupto el programa
 
 
 Tipo de color
-HSL: Mezcla un canal de tono el circulo cromatico(Hue, tono de color en ingles).Con un grado de saturación de color (entre gris y color)
+HSL: Mezcla un canal de tono el circulo cromatico(Hue, tono de color en ingles).Con un grado de saturación de color (entre gris y color).Y un canal de Luminosidad (light)
 
+HSL: (HUE, SATURATION, LICHT)
 
+Este sistema mezcla lo siguiente
+
+-Un tono de color en la rueda cromatica (HUE).
+
+-Un canal de nivel de saturacion croamtica que va del gris al color (saturacion)
+
+-Un canal de luminosidad de color (light).
 
