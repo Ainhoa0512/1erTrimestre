@@ -239,3 +239,12 @@ Mitsubishi:
 
 ![Captura de pantalla de 2021-10-27 12-15-50](https://user-images.githubusercontent.com/90753262/139047023-9b3150b5-ccaf-4330-877d-84c621faa9d9.png)
 
+
+# OEPRACIONES BOOLEANAS CON FORMAS
+
+![Captura de pantalla de 2021-10-27 13-09-58](https://user-images.githubusercontent.com/90753262/139054722-4ccd4ca7-bf73-4e0f-aac9-5f8adf52f13a.png)
+
+
+![Captura de pantalla de 2021-10-27 13-02-31](https://user-images.githubusercontent.com/90753262/139053722-33a49d72-7d11-426d-8845-d59d791b45d0.png)
+
+
