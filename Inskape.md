@@ -199,6 +199,9 @@ COLOR DE TRAZO:
 
 ![Captura de pantalla de 2021-10-27 10-52-56](https://user-images.githubusercontent.com/90753262/139033077-26da9f17-96ae-4b7b-8303-e141ab19832b.png)
 
+![Captura de pantalla de 2021-10-27 10-54-14](https://user-images.githubusercontent.com/90753262/139033411-0506e64d-5ea6-4843-a9e1-184d880099b2.png)
+
+
 
 Tipo de color
 HSL: Mezcla un canal de tono el circulo cromatico(Hue, tono de color en ingles).Con un grado de saturación de color (entre gris y color).Y un canal de Luminosidad (light)
