@@ -161,26 +161,25 @@ No deja guardar el archivo por que esta corrupto el programa
 
 ----Leon 1 x160 de ancho----
 
-![leon1](https://user-images.githubusercontent.com/90753262/139023343-5696b6cd-e7c1-4ff2-9eb4-e5a354a06000.png)
 
+![LEON01](https://user-images.githubusercontent.com/90753262/139577097-33eb45e9-2c86-4271-93c7-9ae7e7396a37.png)
 
 
 ----Leon 2 x350 de ancho----
 
-![leon2](https://user-images.githubusercontent.com/90753262/139023358-eeba631f-3eba-470b-8735-8b7e64fd778e.png)
+![LEON02](https://user-images.githubusercontent.com/90753262/139577104-e830c7bf-9400-4ca4-8439-77ad6e115d68.png)
 
 
 
 ----Leon 3 x800 de ancho----
 
-![leon3](https://user-images.githubusercontent.com/90753262/139023519-0fbcbde2-ed3a-47e4-b4a2-6bdd4028df83.png)
+![LEON03](https://user-images.githubusercontent.com/90753262/139577110-3a5a9dfb-4235-4348-9603-4bb6617163c6.png)
 
 
 
 ----Leon 4 x1500 de ancho----
 
-
-![leon4](https://user-images.githubusercontent.com/90753262/139023530-bb2f7472-5bfc-48b1-92a3-05d7271a7c58.png)
+![LEON04](https://user-images.githubusercontent.com/90753262/139577117-704b1db2-ea5c-49ae-939c-76c501bdbfb0.png)
 
 
 
