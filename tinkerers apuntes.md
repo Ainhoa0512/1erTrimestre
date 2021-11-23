@@ -21,3 +21,7 @@ en una cuba que se ha calentado a una temperatura ligeramente inferior al punto 
 ##### DMLS: 
 
 Es una tecnología de fabricación de metales aditiva que se refiere a la sinterización selectiva por láser (SLS) o a la fusión láser selectiva (SLM), que genera prototipos y herramientas metálicas directamente a partir de datos CAD.
+
+##### Bioimpresion:
+
+Sirve para crear huesos, piesl,  cartilagos....
