@@ -263,7 +263,7 @@ Underground:
 
 Mitsubishi:
 
-Para hacer este logo hice 3 triagnulos y los puse en la forma que hacia falta pra luego copiarlo dos veces mas y hacer el logo 
+Para hacer este logo hice 2 triagnulos y los puse en la forma que hacia falta pra luego copiarlo dos veces mas y hacer el logo 
 
 ![Captura de pantalla de 2021-10-27 12-15-50](https://user-images.githubusercontent.com/90753262/139047023-9b3150b5-ccaf-4330-877d-84c621faa9d9.png)
 
