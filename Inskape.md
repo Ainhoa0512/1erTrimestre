@@ -271,6 +271,8 @@ Mitsubishi:
 ![Captura de pantalla de 2021-10-27 13-09-58](https://user-images.githubusercontent.com/90753262/139054722-4ccd4ca7-bf73-4e0f-aac9-5f8adf52f13a.png)
 
 
+Para hacer este logo lo hice con las formas de cuadrado y un trangulo. Lo puse en la forma que meh acia falta y lo clone 2 veces para poder hacer el logo.
+
 ![Captura de pantalla de 2021-10-27 13-02-31](https://user-images.githubusercontent.com/90753262/139053722-33a49d72-7d11-426d-8845-d59d791b45d0.png)
 
 
