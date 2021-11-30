@@ -227,7 +227,32 @@ CMYK
 SUBSTRACTIVO (CYAN, MAGENTA, YELLOW, BLACK) y un canal d negro
 
 
+## Editor de texto
 
+Línea de texto Caja de texto
+
+Sans Serial → Normal
+
+    bold → negrita
+    Italic→ Cursiva
+    bold Italic → negrita crusivo
+
+Tamaño en Puntos (En impresión)
+
+    Subtítulo 14-20 pts
+    Texto para leer en A4: 12 pts
+    Texto pequeño: 8-10 pts
+    Letra pequeña del contrato con Satanás 4-6 pts
+
+Super Script = Super Índice
+
+Este tipo de escritura es el de las potencias.
+
+Subscript = Sub Índice
+
+Este tipo de escritura es de notación científica.
+
+Espacio entre letras (Interletrado o Kerning)
 
 
 # LOGOS
