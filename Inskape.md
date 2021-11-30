@@ -278,5 +278,5 @@ Para hacer este logo lo hice con las formas de cuadrado y un trangulo. Lo puse e
 ![Captura de pantalla de 2021-10-27 13-02-31](https://user-images.githubusercontent.com/90753262/139053722-33a49d72-7d11-426d-8845-d59d791b45d0.png)
 
 
-
+ 
 
