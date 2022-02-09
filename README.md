@@ -1,6 +1,6 @@
 # 1erTrimestre
 
-Hola me llamo Ainhoa y tengo 15 años, estudie en el instituto Les Marines.
+Hola me llamo Ainhoa y tengo 16 años, estudie en el instituto Les Marines.
 
 Vengo de Castelldefels, estoy en este curso porque me gustaria aprender microinformatica y redes y me gustaria aprender ha hacer webs, montar ordeadores y saber mas del software de los pcs.
 
